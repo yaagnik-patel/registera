@@ -1,0 +1,11 @@
+{
+  "subdomain": "yagnik",
+  "domain": "is-cool.dev",
+  "owner": {
+    "username": "yaagnik-patel",
+    "email": "your-email@example.com"
+  },
+  "records": {
+    "CNAME": "yagnik-portfolio.vercel.app"
+  }
+}
